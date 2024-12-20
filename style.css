@@ -1,0 +1,52 @@
+body{
+    background-image: url(images/background1.png);
+    background-repeat: no-repeat;
+}
+.soon{
+    color: white;
+    text-align: center;
+    
+}
+#logo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    padding-top: 10px;
+    
+}
+#hack {
+    font-family: "Andale Mono"; 
+    
+    font-size: 50px;
+}   
+#under{
+    
+    font-size: 30px ;
+}
+#coming{
+    font-size: 95px;
+    margin: 25px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    
+}
+#email{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    
+}
+#subs{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin: 20px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    
+}
